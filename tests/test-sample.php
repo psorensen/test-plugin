@@ -17,6 +17,6 @@ class SampleTest extends WP_UnitTestCase {
 		// Replace this with some actual testing code.
 		$this->assertTrue( true );
 		$this->assertTrue( false );
-		$this->assertTrue( true );
+		$this->assertTrue( false );
 	}
 }
